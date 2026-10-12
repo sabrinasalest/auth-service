@@ -15,10 +15,10 @@ Java 21 e Spring Boot. Projeto de estudo com foco em segurança e arquitetura.
 Java 21 · Spring Boot · Spring Security · JPA · Flyway · PostgreSQL · H2 · Maven
 
 ## Documentação
-- [Requisitos](docs/requisitos.md)
-- [Modelo de ameaças](docs/ameacas.md)
-- [DER](docs/der.md)
-- [Fluxos](docs/fluxos.md)
+- [Requisitos](docs/requirements.md)
+- [Modelo de ameaças](docs/threat-model.md)
+- [DER](docs/erd.md)
+- [Fluxos](docs/flows.md)
 - [Decisões de arquitetura (ADRs)](docs/adr/README.md)
 - [Contrato da API (OpenAPI)](docs/api/openapi.yaml)
 

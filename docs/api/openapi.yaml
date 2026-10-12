@@ -1,0 +1,6 @@
+openapi: 3.0.3
+info:
+  title: auth-service API
+  version: 0.1.0
+  description: API de autenticação e recuperação de contas.
+paths: {}
